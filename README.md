@@ -1,8 +1,8 @@
 # CS201 Introduction to Computing
 
-Functions, if-else Statements
+If-Else Statements, Functions
 
-Strings, Loops
+Loops
 
 File Streams
 
